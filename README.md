@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @KumkumSingh2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS:- https://code-projects.org/ *****
+follow me on LinkedIn= linkedin.com/in/kumkum-singh-792a08264
+
+Thank you
+Have great day
+
+ 
 
 <!---
 KumkumSingh2/KumkumSingh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
