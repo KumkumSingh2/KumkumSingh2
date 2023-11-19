@@ -5,8 +5,7 @@
 
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
-
-***** FOR MORE PROJECTS:- https://code-projects.org/ *****
+ *****
 follow me on LinkedIn https://www.linkedin.com/in/kumkum-singh-792a08264/overlay/contact-info/
 
 Thank you
