@@ -6,7 +6,7 @@
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
  *****
-follow me on LinkedIn https://www.linkedin.com/in/kumkum-singh-792a08264/overlay/contact-info/
+follow me on LinkedIn https://www.linkedin.com/in/kumkum-singh/
 
 Thank you
 Have great day
