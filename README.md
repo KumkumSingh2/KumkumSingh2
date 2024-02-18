@@ -6,10 +6,10 @@ Experienced Web Developer Proficient in HTML, CSS, JavaScript, React, and Node.j
 
 Skills: ⚛ React 📱 Node.js  💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on Developing a YouTube Analysis Extension 
+- 🔭 I’m currently working on Developing a YouTube Analysis Extension.
 - 👯 I’m looking to collaborate on Open to collaboration for UI/UX, backend, and data analytics expertise. Let's build something impactful together!" 
-- 🤔 I’m looking for help with "🤔 I'm looking for help with crafting engaging and compelling content for my projects and personal profile. Open to collaboration and insights to enhance my written communication. Let's create something impactful together!" 
-- 💬 Ask me about "💬 Ask me about web development, HTML, CSS, JavaScript, React, Node.js, or anything related to creating dynamic and interactive web applications. I'm here to share insights and knowledge!" 
+- 🤔 I’m looking for help with crafting engaging and compelling content for my projects and personal profile. Open to collaboration and insights to enhance my written communication. Let's create something impactful together!" 
+- 💬 Ask me about "💬  web development, HTML, CSS, JavaScript, React, Node.js, or anything related to creating dynamic and interactive web applications. I'm here to share insights and knowledge!" 
 - 📫 How to reach me: https://www.linkedin.com/in/kumkum-singh/ 
 - 😄 Pronouns: She  
 
