@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm Kumkum Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, Kumkum Singh
+####  Design and Development
+![ Design and Development](https://media.licdn.com/dms/image/D4D16AQFQdH6sqPo1bw/profile-displaybackgroundimage-shrink_350_1400/0/1698047620377?e=1714003200&v=beta&t=i38pbalwQ0l8LwtuHivO0QqY-jUn_24pFEYYF3q9uu0)
 
-- 🌱 I’m currently learning **React.js , node.js**
+Experienced Web Developer Proficient in HTML, CSS, JavaScript, React, and Node.js"t. I enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
-- 👨‍💻 All of my projects are available at [http://kumkumsingh.dorik.io/](http://kumkumsingh.dorik.io/)
+Skills: ⚛ React 📱 Node.js  💻 HTML, CSS, JS
 
-- 📫 How to reach me **https://www.linkedin.com/in/kumkum-singh/**
+- 🔭 I’m currently working on Developing a YouTube Analysis Extension 
+- 👯 I’m looking to collaborate on Open to collaboration for UI/UX, backend, and data analytics expertise. Let's build something impactful together!" 
+- 🤔 I’m looking for help with "🤔 I'm looking for help with crafting engaging and compelling content for my projects and personal profile. Open to collaboration and insights to enhance my written communication. Let's create something impactful together!" 
+- 💬 Ask me about "💬 Ask me about web development, HTML, CSS, JavaScript, React, Node.js, or anything related to creating dynamic and interactive web applications. I'm here to share insights and knowledge!" 
+- 📫 How to reach me: https://www.linkedin.com/in/kumkum-singh/ 
+- 😄 Pronouns: She  
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
