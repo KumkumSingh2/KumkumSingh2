@@ -1,7 +1,7 @@
 ### Hi there 👋,  I'm Kumkum Singh
 ####  Design and Development
 ![ Design and Development](https://media.licdn.com/dms/image/D4D16AQFQdH6sqPo1bw/profile-displaybackgroundimage-shrink_350_1400/0/1698047620377?e=1714003200&v=beta&t=i38pbalwQ0l8LwtuHivO0QqY-jUn_24pFEYYF3q9uu0)
-
+https://camo.githubusercontent.com/92c52222f4f24858f6ffe73daae94064ab7f3a6ff80e0478efc7da632d399510/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966
 Experienced Web Developer Proficient in HTML, CSS, JavaScript, React, and Node.js"t. I enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
 Skills: ⚛ React 📱 Node.js  💻 HTML, CSS, JS
