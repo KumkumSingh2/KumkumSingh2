@@ -5,7 +5,7 @@
 
 Experienced Web Developer Proficient in HTML, CSS, JavaScript, React, and Node.js"t. I enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
 
-Skills: ⚛ React 📱 Node.js  💻 HTML, CSS, JS
+Skills:  💻 HTML, CSS, JS, ⚛ React 📱 Node.js ,Express JS, MongoDB
 
 - 🔭 I’m currently working on Developing a YouTube Analysis Extension.
 - 👯 I’m looking to collaborate on Open to collaboration for UI/UX, backend, and data analytics expertise. Let's build something impactful together!" 
